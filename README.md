@@ -22,9 +22,10 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<video width="320" height="240" title='Video Walkthrough' controls>
-  <source src="FirstAppRecording.mkv" type="video/mp4">
-</video>
+
+https://github.com/bab8/MyFirstApp-CS388-/assets/89927142/1fa72dde-3604-4742-8c85-2b1fce691ed4
+
+
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
